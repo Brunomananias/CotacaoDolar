@@ -1,0 +1,14 @@
+C:\Users\Bruno\source\repos\CotacaoDolar\bin\Debug\CotacaoDolar.exe.config
+C:\Users\Bruno\source\repos\CotacaoDolar\bin\Debug\CotacaoDolar.exe
+C:\Users\Bruno\source\repos\CotacaoDolar\bin\Debug\CotacaoDolar.pdb
+C:\Users\Bruno\source\repos\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.AssemblyReference.cache
+C:\Users\Bruno\source\repos\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bruno\source\repos\CotacaoDolar\obj\Debug\CotacaoDolar.FrmCotacao.resources
+C:\Users\Bruno\source\repos\CotacaoDolar\obj\Debug\CotacaoDolar.Properties.Resources.resources
+C:\Users\Bruno\source\repos\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.GenerateResource.cache
+C:\Users\Bruno\source\repos\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\CotacaoDolar\obj\Debug\CotacaoDolar.exe
+C:\Users\Bruno\source\repos\CotacaoDolar\obj\Debug\CotacaoDolar.pdb
+C:\Users\Bruno\source\repos\CotacaoDolar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bruno\source\repos\CotacaoDolar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bruno\source\repos\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.CopyComplete
